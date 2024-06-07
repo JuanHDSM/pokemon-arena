@@ -1,0 +1,14 @@
+C:\dev\PokemonBattle\bin\Debug\net8.0\PokemonBattle.exe
+C:\dev\PokemonBattle\bin\Debug\net8.0\PokemonBattle.deps.json
+C:\dev\PokemonBattle\bin\Debug\net8.0\PokemonBattle.runtimeconfig.json
+C:\dev\PokemonBattle\bin\Debug\net8.0\PokemonBattle.dll
+C:\dev\PokemonBattle\bin\Debug\net8.0\PokemonBattle.pdb
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.AssemblyInfoInputs.cache
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.AssemblyInfo.cs
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.csproj.CoreCompileInputs.cache
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.dll
+C:\dev\PokemonBattle\obj\Debug\net8.0\refint\PokemonBattle.dll
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.pdb
+C:\dev\PokemonBattle\obj\Debug\net8.0\PokemonBattle.genruntimeconfig.cache
+C:\dev\PokemonBattle\obj\Debug\net8.0\ref\PokemonBattle.dll
